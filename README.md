@@ -3,6 +3,11 @@ Electronics enclosures with parameterized dimensions.
 This enclosures serve as a base to most electronic containers I create.
 (Designed with FreeCAD 0.21)
 
+## Choice of size
+### To choose the dimensions, only change column "B" of the spreadsheet
+![](EditParam_screenshot1.png)
+*Edit the parameters in the FreeCAD spreadsheet to get the correct size.
+
 ## Type A 
 
 ### Two "U" plastic elements screwed by 2.2 mm self-tapping screw
@@ -26,6 +31,4 @@ After resizing with the spreadsheet you will be able to export the sheet metal u
 ![](TypeM_screenshot1.png)
 *Type M view*
 
-![](EditParam_screenshot1.png)
-*Edit the parameters in the FreeCAD spreadsheet to get the correct size.
 
