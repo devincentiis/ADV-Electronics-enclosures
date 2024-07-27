@@ -19,6 +19,8 @@ This enclosures serve as a base to most electronic containers I create.
 ## Type B 
 
 ### Two plastic elements screwed by 4 M3 bolts, with or without 16x2 LCD display
+The container includes a channel as a seat for a rubber gasket, if you don't have a suitable one and don't need a high level of airtightness you can also use an electrical wire of the right diameter (this is also parameterized).
+
 ![](TypeB_screenshot1.png)
 *Type B view*
 ![](TypeB_screenshot2.png)
