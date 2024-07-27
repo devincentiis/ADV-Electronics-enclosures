@@ -1,14 +1,31 @@
-# ADV Type X FreeCAD Parametric Electronics Enclosure 
-FreeCAD Parametric Electronics Enclosure, composed of a sheet metal with 4 folds, 2 frames and 2 perforated panels (front-back).
-The latter can be made of different materials according to aesthetic needs.
-Front and back panels are join trought 4 threaded rods
+# ADV Parametric Electronics Enclosure made with FreeCAD
+Electronics enclosures with parameterized dimensions.
+This enclosures serve as a base to most electronic containers I create.
 (Designed with FreeCAD 0.21)
 
-![](screenshot1.png)
-*FreeCAD view with unfold sheet metal*
+## Type A 
 
-![](screenshot2.png)
-*Parameter Spreadsheet*
+### Two "U" plastic elements screwed by 2.2 mm self-tapping screw
+![](TypeA_screenshot1.png)
+*Type A view*
+![](TypeA_screenshot2.png)
+*Type A after some cutout windows, a small example to protect an old AVRISP mySmartUSB MK2*
 
-Edit the parameters in the FreeCAD spreadsheet to get the correct inner size for the enclosure.
+## Type B 
+
+### Two plastic elements screwed by 4 M3 bolts, with or without 16x2 LCD display
+![](TypeB_screenshot1.png)
+*Type B view*
+![](TypeB_screenshot2.png)
+*Type B with LCD 16x2 cutout windows*
+
+## Type M (FreeCAD with Sheet Metal add-on)
+
+### Two sheet metal elements screwed by 2.2 mm self-tapping screw.
+After resizing with the spreadsheet you will be able to export the sheet metal unfold to vector format for practical creation.
+![](TypeM_screenshot1.png)
+*Type M view*
+
+![](EditParam_screenshot1.png)
+*Edit the parameters in the FreeCAD spreadsheet to get the correct size.
 
