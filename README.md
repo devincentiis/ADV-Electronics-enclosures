@@ -37,7 +37,13 @@ After resizing with the spreadsheet you will be able to export the sheet metal u
 
 ### Handheld or sloped console enclosure. Tree sheet metal elements and 2 plastic frame screwed by 2.2 mm self-tapping screw.
 After resizing with the spreadsheet you will be able to export the sheet metal unfold to vector format for practical creation.
-Recast the pegs for joint frames and lateral sheets.
+Remelted the pegs for joint frames and lateral sheets.
 ![](TypeH_screenshot1.png)
 *Type H views*
 
+## Type T (FreeCAD)
+
+### One rectangular tube, 2 plastic frames and 2 panels screwed by 4 M3 threaded rod and nuts.
+Container made using a rectangular tube, two panels (one could be transparent) and two 3D printed frames joined to the panels with remelted pegs.
+![](TypeT_screenshot1.png)
+*Type T views*
