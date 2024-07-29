@@ -16,7 +16,7 @@ This enclosures serve as a base to most electronic containers I create.
 ![](TypeA_screenshot2.png)
 *Type A after some cutout windows, a small example to protect an old AVRISP mySmartUSB MK2*
 
-## Type B 
+## Type B
 
 ### Two plastic elements screwed by 4 M3 bolts, with or without 16x2 LCD display
 The container includes a channel as a seat for a rubber gasket, if you don't have a suitable one and don't need a high level of airtightness you can also use an electrical wire of the right diameter (this is also parameterized).
@@ -33,4 +33,11 @@ After resizing with the spreadsheet you will be able to export the sheet metal u
 ![](TypeM_screenshot1.png)
 *Type M view*
 
+## Type H (FreeCAD with Sheet Metal add-on)
+
+### Handheld or sloped console enclosure. Tree sheet metal elements and 2 plastic frame screwed by 2.2 mm self-tapping screw.
+After resizing with the spreadsheet you will be able to export the sheet metal unfold to vector format for practical creation.
+Recast the pegs for joint frames and lateral sheets.
+![](TypeH_screenshot1.png)
+*Type H views*
 
