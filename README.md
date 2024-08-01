@@ -8,7 +8,9 @@ This enclosures serve as a base to most electronic containers I create.
 ![](EditParam_screenshot1.png)
 *Edit the parameters in the FreeCAD spreadsheet to get the correct size.
 
-## Type A 
+> :warning: **<span style="color:orange;">Warning! In some drawings you may encounter errors when resizing: try to do it in 5-10 mm steps</span>**
+
+## Type A (FreeCAD)
 
 ### Two "U" plastic elements screwed by 2.2 mm self-tapping screw
 ![](TypeA_screenshot1.png)
@@ -16,7 +18,7 @@ This enclosures serve as a base to most electronic containers I create.
 ![](TypeA_screenshot2.png)
 *Type A after some cutout windows, a small example to protect an old AVRISP mySmartUSB MK2*
 
-## Type B
+## Type B (FreeCAD)
 
 ### Two plastic elements screwed by 4 M3 bolts, with or without 16x2 LCD display
 The container includes a channel as a seat for a rubber gasket, if you don't have a suitable one and don't need a high level of airtightness you can also use an electrical wire of the right diameter (this is also parameterized).
@@ -25,6 +27,13 @@ The container includes a channel as a seat for a rubber gasket, if you don't hav
 *Type B view*
 ![](TypeB_screenshot2.png)
 *Type B with LCD 16x2 cutout windows*
+
+## Type C (FreeCAD with Sheet Metal add-on)
+
+### 2 sheet metal elements, 2 plastic elements (frame and supprot) and 1 transparent panel screwed by by 2.2 mm self-tapping screw.
+Container made using two sheet metal, and tree plastic elements (one could be transparent as picture frame), remelted pegs for joined with top metal.
+![](TypeC_screenshot1.png)
+*Type C views*
 
 ## Type M (FreeCAD with Sheet Metal add-on)
 
