@@ -62,7 +62,7 @@ Container made using a rectangular tube, two panels (one could be transparent) a
 ### 2 sheet metal elements, 6 plastic elements (frame, mounting plate and 4 pads) and 1 transparent panel screwed by 2.2 mm self-tapping screw.
 Container made using two sheet metal, seven plastic elements (one could be transparent as picture frame), remelted pegs for joined with top metal. The top of the enclosure opens like a flap.
 ![](TypeW_screenshot1.png)
-*Type C views*
+*Type W views*
 ## License
 
 MIT License
