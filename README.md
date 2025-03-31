@@ -30,7 +30,7 @@ The container includes a channel as a seat for a rubber gasket, if you don't hav
 
 ## Type C (FreeCAD with Sheet Metal add-on)
 
-### 2 sheet metal elements, 2 plastic elements (frame and mounting plate) and 1 transparent panel screwed by by 2.2 mm self-tapping screw.
+### 2 sheet metal elements, 2 plastic elements (frame and mounting plate) and 1 transparent panel screwed by 2.2 mm self-tapping screw.
 Container made using two sheet metal, and tree plastic elements (one could be transparent as picture frame), remelted pegs for joined with top metal.
 ![](TypeC_screenshot1.png)
 *Type C views*
@@ -57,7 +57,12 @@ Container made using a rectangular tube, two panels (one could be transparent) a
 ![](TypeT_screenshot1.png)
 *Type T views*
 
+## Type W (FreeCAD with Sheet Metal add-on)
 
+### 2 sheet metal elements, 6 plastic elements (frame, mounting plate and 4 pads) and 1 transparent panel screwed by 2.2 mm self-tapping screw.
+Container made using two sheet metal, seven plastic elements (one could be transparent as picture frame), remelted pegs for joined with top metal. The top of the enclosure opens like a flap.
+![](TypeW_screenshot1.png)
+*Type C views*
 ## License
 
 MIT License
