@@ -28,10 +28,21 @@ The container includes a channel as a seat for a rubber gasket, if you don't hav
 ![](ModelD_screenshot2.png)
 *Model D with LCD 16x2 cutout windows*
 
+## Model E (FreeCAD)
+
+### Two plastic pieces with an openable bottom section.
+![](ModelE_screenshot1.png)
+*Model E views*
+
+## Model I (FreeCAD)
+
+### Two-piece plastic unit with an opening bottom and a sloped top, suitable for consoles..
+![](ModelI_screenshot1.png)
+*Model I views*
+
 ## Model T (FreeCAD)
 
-### One rectangular tube, 2 plastic frames and 2 panels screwed by 4 M3 threaded rod and nuts.
-Container made using a rectangular tube, two panels (one could be transparent) and two 3D printed frames joined to the panels with remelted pegs.
+### Consisting of two plastic pieces with the front side inclined at 30°.
 ![](ModelT_screenshot1.png)
 *Model T views*
 
