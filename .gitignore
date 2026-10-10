@@ -1,2 +1,4 @@
 *.FCStd1
 *.FCBak
+*.stl
+*.step
