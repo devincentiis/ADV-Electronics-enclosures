@@ -36,7 +36,7 @@ The container includes a channel as a seat for a rubber gasket, if you don't hav
 
 ## Model I (FreeCAD)
 
-### Two-piece plastic unit with an opening bottom and a sloped top, suitable for consoles..
+### Two-piece plastic unit with an opening bottom and a sloped top, suitable for consoles.
 ![](ModelI_screenshot1.png)
 *Model I views*
 
@@ -46,6 +46,11 @@ The container includes a channel as a seat for a rubber gasket, if you don't hav
 ![](ModelT_screenshot1.png)
 *Model T views*
 
+## Model U (FreeCAD)
+
+### Sheet metal case with a sliding top panel and a plastic front.
+![](ModelU_screenshot1.png)
+*Model U views*
 
 ## License
 
